@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695256534 source:c:\users\brisa ortiz\onedrive\escritorio\laboratorio ii\tp adicional arreglos dinamicos, listas, archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<malloc.h>
+
